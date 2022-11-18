@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/drawable/background_btn.xml" value="0.176" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/drawable/background_edt.xml" value="0.176" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/drawable/item_dialog.xml" value="0.167" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/layout/fragment_question.xml" value="0.25" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/layout/fragment_start.xml" value="0.33" />
+        <entry key="..\:/Android Dasturlash/Android studio/A.S projects/SportGameTask6/app/src/main/res/layout/item_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

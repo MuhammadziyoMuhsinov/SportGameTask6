@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SportGameTask6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="futbol_qancha_vaqt_davom_etadi">Futbol qancha vaqt davom etadi?</string>
+    <string name="level_1">level 1</string>
+    <string name="_50">50</string>
+    <string name="_80">80</string>
+    <string name="_90">90</string>
+    <string name="qani_o_ynaymiz">Qani o\'ynaymiz!</string>
+    <string name="salom_crypton">Salom Crypton!</string>
+    <string name="futbol">Futbol</string>
+    <string name="starting_game">Starting game</string>
+    <string name="xush_kelibsiz">Xush kelibsiz!</string>
+    <string name="ismingizni_kiriting">Ismingizni kiriting:</string>
+    <string name="boshlash">Boshlash</string>
+    <string name="correct_answer">correct answer: 10</string>
+</resources>
